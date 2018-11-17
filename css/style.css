@@ -1,0 +1,12 @@
+@import url('searchForm.css');
+
+body {
+  margin: 0;
+  background-color: rgb(55,63, 71);
+}
+
+.wrapper {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+}

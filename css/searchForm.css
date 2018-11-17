@@ -1,0 +1,32 @@
+.search {
+  position: relative;
+  display: flex;
+  width: 60%;
+  margin: 3% auto;
+}
+
+.search__text,
+.search__submit {
+  padding: 8px;
+  outline: 0;
+  font-size: 18px;
+  border: 0;
+}
+
+.search__text {
+  width: 90%;
+  border-top-right-radius: 8px;
+  border-bottom-right-radius: 8px;
+}
+
+.search__submit {
+  width: 10%;
+  background-color: #f1f1f1;
+  cursor: pointer;
+  border-top-left-radius: 8px;
+  border-bottom-left-radius: 8px;
+  background-image: url("../img/search.png");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
