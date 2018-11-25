@@ -1,12 +1,17 @@
 @import url('searchForm.css');
+@import url('listVideo.css');
 
 body {
   margin: 0;
   background-color: rgb(55,63, 71);
+  font-family: Helvetica, sans-serif;
+  color: #000000;
+  overflow: hidden;
 }
 
 .wrapper {
   width: 100%;
   max-width: 1200px;
   margin: 0 auto;
+  overflow: hidden;
 }
